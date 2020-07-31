@@ -1,0 +1,81 @@
+body{
+	margin:0;
+	padding:0;
+}
+.header-area{
+	background-color:#00b894;
+}
+.logo h4{
+	color:#FFFFFF;
+	text-transform:uppercase;
+	padding:20px;
+	cursor:pointer;
+	
+}
+.main-menu{
+	padding-top:22px;
+}
+.main-menu ul{
+	
+	margin:0;
+	list-style:none;
+	float:right;
+}
+.main-menu ul li{
+	float:left;
+	
+}
+.main-menu ul li a{
+	text-decoration:none;
+	color:#FFFFFF;
+	text-transform:uppercase;
+	font-size:16px;
+	font-weight:normal;
+	padding:0px 20px;
+}
+.main-menu ul li:hover a{
+	color:#d63031;
+	 transition: all ease-in-out 0.5s;
+	
+}
+.slider-area{
+	background:url('img/headerbg.jpg') no-repeat 100% 100% fixed;
+	height:200px;
+}
+
+ 
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
